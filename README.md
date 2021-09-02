@@ -13,7 +13,7 @@ I'm Endra Lazuardi, I'm a student who loves to do a little bit of code👨‍�
 - 🌱 I’m currently learning React, Next.js and Flutter!
 - 💬 Ask me about: tech, memes, anime, games, mangas
 - 😄 Pronouns: he/him
-<h4 align="center"> Tools </h4>
+<h4 align="left"> Tools </h4>
 <div align="center">
   <img align="left" alt="VIM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
   <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
