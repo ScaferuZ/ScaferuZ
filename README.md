@@ -5,13 +5,11 @@
 ## Skills
 
 ### Languages
-
-- HTML & CSS
-- JavaScript
-- SQL 
+- JavaScript 
 - Python
 - Java
 - Dart
+- PHP
 
 ### Frameworks & Libraries
 
@@ -20,6 +18,7 @@
 - TailwindCSS
 - Flutter
 - React Native
+- Laravel
 
 ### Other Concepts or Tools
 
