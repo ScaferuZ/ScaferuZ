@@ -22,7 +22,7 @@
 
 ### Other Concepts or Tools
 
-- Git
+- Git (lazygit ftw :D)
 - Gitflow
 - Vim
 - Linux
