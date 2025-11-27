@@ -1,3 +1,3 @@
-# Endra —  I'm a software engineer in process who loves to research interesting things :D
+# i code
 
-*A software engineer focused on frontend website development. Currently studying System Information at Telkom University.*
+thats all you need to know abt me. and oh, i use vim btw.
